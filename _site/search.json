@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ross EcoAnalytics",
+    "section": "",
+    "text": "## Data Driven Conservation\nAt Ross EcoAnalytics, we are committed to providing high-quality statistical analyses and data science services to organizations that align with our environmental values. By leveraging advanced analytics and visualization tools, we aim to support non-profits, research institutions, and state and federal partners in making data-informed decisions that drive conservation."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Beth Ross",
+    "section": "",
+    "text": "I’m Beth Ross. I’m a statistician specializing in ecological applications. Throughout my career, I’ve collaborated with state and federal agencies, NGOs, and other conservation-focused organizations. I am happiest when I’m working in a team environment with a diverse group of folks to find solutions to conservation problems. I have worked on a range of projects from sea turtles to migratory birds. While statistics, data science, and data visualization are all important skills I’ve acquired, I find that communication and collaboration with multidisciplinary teams is critical for a successful co-developed product. I strive to communicate findings so that they are accessible for project partners and laypersons."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Beth Ross",
+    "section": "Education",
+    "text": "Education\nUtah State University | Logan, UT | PhD in Wildlife Biology, 2014 and MS in Statistics, 2012\nColorado State University | Fort Collins, CO | MS in Zoology, 2007\nKansas State University | Manhattan, KS | BS in Wildlife Biology, 2004"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Beth Ross",
+    "section": "Experience",
+    "text": "Experience\nOwner and Statistician | Ross EcoAnalytics, LLC | Albuquerque, NM | April 2025 - present\nQuantitative Ecologist | U.S. Fish and Wildlife Service | Albuquerque, NM | March 2021 - September 2025\nAssistant Unit Leader & Assistant Professor | U.S. Geological Survey SC Cooperative Research Unit & Clemson University | Clemson, SC | March 2016 - March 2021\nPostdoctoral Researcher | Kansas Cooperative Research Unit | Kansas State University | Manhattan, KS | June 2013 - March 2016"
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "Our services cover a wide range of statistical and data analytic approaches tailored to meet the unique needs of each client. From survey design to data visualization and analysis, we provide comprehensive solutions.\n\n\nStudy Design and Sampling Methodology Development\nBalancing costs, limited personnel time, and data quality needs can be challenging. We have experience working with state and federal agencies to develop realistic wildlife and plant surveys that are statistically rigorous and have enough statistical power to monitor species effectively. We can also design surveys and analytic approaches that combine data from historic surveys with more modern sampling approaches to ensure that historic information is incorporated appropriately.\n\n\nData Analysis\nWe have experience analyzing a wide variety of data types (e.g., count data, mark-recapture data, presence/absence data) in various statistical frameworks to best address our clients’ questions. Our projects have covered a wide variety of species (birds, sea turtles, fish, plants) and ecosystems (Central and arid grasslands, Southeastern forests, coastal plains). We also have experience working on projects with data-limited species and using statistical techniques to maximize the information contained in available data.\n\n\nData Visualization\nPresenting results from data analyses in a way that conveys key information is critical for informing management decisions and policy. We have experience creating publication-ready figures as well as incorporating key findings into data visualization tools such as Shiny apps.\n\n\nReports and Publications\nWe have extensive experience providing project summaries and reports and have published in a range of wildlife and ecology journals. Additionally, we can help clients set up project workflows that automatically generate recurring reports."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects below are a representative sample of projects Beth has worked on during her career. Please see Google Scholar for a complete list of published work.\n\n\nOngoing Projects\n\nAvian Vulnerability Estimation and Power Analysis (AVEPowA)\nTo help fill key data gaps in our understanding of which seabird species are at higher risk from offshore development, we are contributing to research in the U.S. Atlantic to better understand the factors that influence vulnerability in response to offshore development and develop guidance for monitoring seabird species in response to offshore development.\n\n\nCentral Grasslands Bird Working Group\nThe CGBWG is a transdisciplinary group working to integrate biological science, human dimensions, economics, and indigenous traditional ecological knowledge to better inform conservation and management of grasslands to benefit grassland bird species.\n\n\nWaterfowl Population Drivers\nWe are working with researchers from Clemson University, USFWS, and WEST Inc to describe population drivers of waterfowl species across their life cycle.\n\n\n\nCompleted Projects\n\nNext Interior - Interior’s Contributions\nInterior’s Contributions is a web app and library of fact sheets providing basic information and statistics relevant to the U.S. Department of Interior, available by state and congressional district.\n\n\nKemp’s Ridley Sea Turtle publication\nDespite decades of research, there were still many unknowns about the Texas population of Kemp’s ridley sea turtle. We worked with NPS to understand the available data and identify knowledge gaps that would be helpful for management. We were able to combine decades of data with simulated management scenarios to predict how the population might change in the future given climate change, sea level rise, and management scenarios. We used an integrated population model (IPM) to estimate population parameters including adult survival, population growth rate, and abundance of nesting females in Texas. Our IPM framework provides an example of how future management scenarios can be evaluated critically to determine population changes through time under future environmental uncertainty.\n\n\nWaterfowl Population Drivers\nPrevious collaborations on waterfowl populations have looked at populations in the Southeast U.S., sea duck populations, and Mottled Ducks as well as management of Atlantic Brant and Canada Geese."
+  },
+  {
+    "objectID": "index.html#mission",
+    "href": "index.html#mission",
+    "title": "Ross EcoAnalytics",
+    "section": "Mission",
+    "text": "Mission\nOur mission is to shift the way ecologists manage wildlife, fish, and plant species. We specialize in cutting-edge, data-driven solutions that provide critical insights into conservation actions and decision making. With a pragmatic approach, we help wildlife professionals make informed decisions that benefit the planet while optimizing budgets."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact us through email or schedule an appointment through our booking page."
+  },
+  {
+    "objectID": "index.html#data-driven-conservation",
+    "href": "index.html#data-driven-conservation",
+    "title": "Ross EcoAnalytics",
+    "section": "Data Driven Conservation",
+    "text": "Data Driven Conservation\nAt Ross EcoAnalytics, we are committed to providing high-quality statistical analyses and data science services to organizations that align with our environmental values. By leveraging advanced analytics and visualization tools, we aim to support non-profits, research institutions, and state and federal partners in making data-informed decisions that drive conservation."
+  }
+]
