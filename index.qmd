@@ -13,3 +13,5 @@ At Ross EcoAnalytics, we are committed to providing high-quality statistical ana
 ## Mission
 
 Our mission is to shift the way ecologists manage wildlife, fish, and plant species. We specialize in cutting-edge, data-driven solutions that provide critical insights into conservation actions and decision making. With a pragmatic approach, we help wildlife professionals make informed decisions that benefit the planet while optimizing budgets.
+
+- test text -
