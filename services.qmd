@@ -1,0 +1,24 @@
+---
+title: "Services"
+---
+![](logo no background.png){style="float: left; margin-right: 10px;"  width="300px"}
+
+Our services cover a wide range of statistical and data analytic approaches tailored to meet the unique needs of each client. From survey design to data visualization and analysis, we provide comprehensive solutions.
+
+***
+
+### Study Design and Sampling Methodology Development
+
+Balancing costs, limited personnel time, and data quality needs can be challenging. We have experience working with state and federal agencies to develop realistic wildlife and plant surveys that are statistically rigorous and have enough statistical power to monitor species effectively. We can also design surveys and analytic approaches that combine data from historic surveys with more modern sampling approaches to ensure that historic information is incorporated appropriately.
+
+### Data Analysis
+
+We have experience analyzing a wide variety of data types (e.g., count data, mark-recapture data, presence/absence data) in various statistical frameworks to best address our clients' questions. Our projects have covered a wide variety of species (birds, sea turtles, fish, plants) and ecosystems (Central and arid grasslands, Southeastern forests, coastal plains). We also have experience working on projects with data-limited species and using statistical techniques to maximize the information contained in available data.
+
+### Data Visualization
+
+Presenting results from data analyses in a way that conveys key information is critical for informing management decisions and policy. We have experience creating publication-ready figures as well as incorporating key findings into data visualization tools such as Shiny apps.
+
+### Reports and Publications
+
+We have extensive experience providing project summaries and reports and have published in a range of [wildlife and ecology journals](https://scholar.google.com/citations?user=dRwP_m8AAAAJ&hl=en&oi=ao). Additionally, we can help clients set up project workflows that automatically generate recurring reports.

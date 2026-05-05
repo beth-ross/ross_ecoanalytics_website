@@ -1,0 +1,40 @@
+---
+title: "Beth Ross"
+about:
+  template: trestles
+  image: headshot.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:beth@rossecoanalytics.com
+    - icon: github
+      text: Github
+      href: https://github.com/beth-ross
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/beth-ross-68497649/
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=dRwP_m8AAAAJ&hl=en&oi=ao
+    - text: "{{< ai researchgate >}} Research Gate" 
+      href: https://www.researchgate.net/profile/Beth-Ross-3
+---
+
+I'm Beth Ross. I'm a statistician specializing in ecological applications. Throughout my career, I've collaborated with state and federal agencies, NGOs, and other conservation-focused organizations. I am happiest when I'm working in a team environment with a diverse group of folks to find solutions to conservation problems. I have worked on a range of projects from sea turtles to migratory birds. While statistics, data science, and data visualization are all important skills I've acquired, I find that communication and collaboration with multidisciplinary teams is critical for a successful co-developed product. I strive to communicate findings so that they are accessible for project partners and laypersons.
+
+## Education
+
+Utah State University \| Logan, UT \| PhD in Wildlife Biology, 2014 and MS in Statistics, 2012
+
+Colorado State University \| Fort Collins, CO \| MS in Zoology, 2007
+
+Kansas State University \| Manhattan, KS \| BS in Wildlife Biology, 2004
+
+## Experience
+
+Owner and Statistician \| Ross EcoAnalytics, LLC \| Albuquerque, NM \| April 2025 - present
+
+Quantitative Ecologist \| U.S. Fish and Wildlife Service \| Albuquerque, NM \| March 2021 - September 2025
+
+Assistant Unit Leader & Assistant Professor \| U.S. Geological Survey SC Cooperative Research Unit & Clemson University \| Clemson, SC \| March 2016 - March 2021
+
+Postdoctoral Researcher \| Kansas Cooperative Research Unit \| Kansas State University \| Manhattan, KS \| June 2013 - March 2016

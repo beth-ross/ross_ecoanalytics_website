@@ -1,0 +1,37 @@
+---
+title: "Projects"
+---
+
+![](logo no background.png){style="float: left; margin-right: 10px;"  width="300px"}
+
+Projects below are a representative sample of projects Beth has worked on during her career. Please see [Google Scholar](https://scholar.google.com/citations?user=dRwP_m8AAAAJ&hl=en&oi=ao) for a complete list of published work.
+
+***
+
+### Ongoing Projects
+
+#### Avian Vulnerability Estimation and Power Analysis ([AVEPowA](https://briwildlife.org/offshorescienceplanning/))
+
+To help fill key data gaps in our understanding of which seabird species are at higher risk from offshore development, we are contributing to research in the U.S. Atlantic to better understand the factors that influence vulnerability in response to offshore development and develop guidance for monitoring seabird species in response to offshore development. 
+
+#### Central Grasslands Bird Working Group
+
+The [CGBWG](https://www.nceas.ucsb.edu/workinggroups/morpho-integrating-multidisciplinary-data-layers-central-grassland-avian-modeling) is a transdisciplinary group working to integrate biological science, human dimensions, economics, and indigenous traditional ecological knowledge to better inform conservation and management of grasslands to benefit grassland bird species. 
+
+#### Waterfowl Population Drivers
+
+We are working with researchers from Clemson University, USFWS, and WEST Inc to describe population drivers of waterfowl species across their life cycle.  
+
+### Completed Projects
+
+#### Next Interior - [Interior's Contributions](https://nextinterior.shinyapps.io/InteriorsContributions/)
+
+*Interior's Contributions* is a web app and library of fact sheets providing basic information and statistics relevant to the U.S. Department of Interior, available by state and congressional district.
+
+#### Kemp's Ridley Sea Turtle [publication](https://doi.org/10.1002/ecs2.4982)
+
+Despite decades of research, there were still many unknowns about the Texas population of Kemp's ridley sea turtle. We worked with NPS to understand the available data and identify knowledge gaps that would be helpful for management. We were able to combine decades of data with simulated management scenarios to predict how the population might change in the future given climate change, sea level rise, and management scenarios. We used an integrated population model (IPM) to estimate population parameters including adult survival, population growth rate, and abundance of nesting females in Texas. Our IPM framework provides an example of how future management scenarios can be evaluated critically to determine population changes through time under future environmental uncertainty.
+
+#### Waterfowl Population Drivers
+
+Previous collaborations on waterfowl populations have looked at populations in the [Southeast U.S.](https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13956), [sea duck populations](https://www.ace-eco.org/vol15/iss2/art6/), and [Mottled Ducks](https://doi.org/10.1002/jwmg.21373) as well as management of [Atlantic Brant](https://doi.org/10.1002/jwmg.22037) and [Canada Geese](https://doi.org/10.1002/ecs2.3659).
