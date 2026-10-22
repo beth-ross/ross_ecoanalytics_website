@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-87789dfd1a51b57e76f2f03c6f70bd5e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-821b885b5e94fe17c7cb8d887f1a43ab.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -163,11 +166,8 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="ongoing-projects">Ongoing Projects</h3>
 <section id="avian-vulnerability-estimation-and-power-analysis-avepowa" class="level4">
 <h4 class="anchored" data-anchor-id="avian-vulnerability-estimation-and-power-analysis-avepowa">Avian Vulnerability Estimation and Power Analysis (<a href="https://briwildlife.org/offshorescienceplanning/">AVEPowA</a>)</h4>
-<p>To help fill key data gaps in our understanding of which seabird species are at higher risk from offshore development, we are contributing to research in the U.S. Atlantic to better understand the factors that influence vulnerability in response to offshore development and develop guidance for monitoring seabird species in response to offshore development.</p>
-</section>
-<section id="central-grasslands-bird-working-group" class="level4">
-<h4 class="anchored" data-anchor-id="central-grasslands-bird-working-group">Central Grasslands Bird Working Group</h4>
-<p>The <a href="https://www.nceas.ucsb.edu/workinggroups/morpho-integrating-multidisciplinary-data-layers-central-grassland-avian-modeling">CGBWG</a> is a transdisciplinary group working to integrate biological science, human dimensions, economics, and indigenous traditional ecological knowledge to better inform conservation and management of grasslands to benefit grassland bird species.</p>
+<p>To help fill key data gaps in our understanding of which seabird species are at higher risk from offshore wind energy development, we are contributing to research in the U.S. Atlantic to better understand the traits that influence vulnerability to offshore wind energy development and develop guidance for monitoring seabird species. Ross EcoAnalytics is collaborating with the Biodiversity Research Institute, Normandeau Associates, The Nature Conservancy, and University of St.&nbsp;Andrews (CREEM). #### Central Grasslands Bird Working Group</p>
+<p>The <a href="https://www.nceas.ucsb.edu/workinggroups/morpho-integrating-multidisciplinary-data-layers-central-grassland-avian-modeling">CGBWG</a> is a transdisciplinary group working to integrate biological science, human dimensions, economics, and indigenous traditional ecological knowledge to better inform conservation and management of grasslands to benefit grassland bird species. The first big product from this group is the <a href="https://apps.birdconservancy.org/sparro/">SPARRO</a> app, an online tool to support land stewardship and bird conservation across the Great Plains.</p>
 </section>
 <section id="waterfowl-population-drivers" class="level4">
 <h4 class="anchored" data-anchor-id="waterfowl-population-drivers">Waterfowl Population Drivers</h4>
@@ -178,11 +178,15 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="completed-projects">Completed Projects</h3>
 <section id="next-interior---interiors-contributions" class="level4">
 <h4 class="anchored" data-anchor-id="next-interior---interiors-contributions">Next Interior - <a href="https://nextinterior.shinyapps.io/InteriorsContributions/">Interior’s Contributions</a></h4>
-<p><em>Interior’s Contributions</em> is a web app and library of fact sheets providing basic information and statistics relevant to the U.S. Department of Interior, available by state and congressional district.</p>
+<p><em>Interior’s Contributions</em> is a web app and library of fact sheets providing basic information and statistics relevant to the U.S. Department of Interior, available by state and congressional district. We used Quarto to create the fact sheets, allowing us to develop dynamic, parameterized, reproducible documents.</p>
 </section>
 <section id="kemps-ridley-sea-turtle-publication" class="level4">
 <h4 class="anchored" data-anchor-id="kemps-ridley-sea-turtle-publication">Kemp’s Ridley Sea Turtle <a href="https://doi.org/10.1002/ecs2.4982">publication</a></h4>
 <p>Despite decades of research, there were still many unknowns about the Texas population of Kemp’s ridley sea turtle. We worked with NPS to understand the available data and identify knowledge gaps that would be helpful for management. We were able to combine decades of data with simulated management scenarios to predict how the population might change in the future given climate change, sea level rise, and management scenarios. We used an integrated population model (IPM) to estimate population parameters including adult survival, population growth rate, and abundance of nesting females in Texas. Our IPM framework provides an example of how future management scenarios can be evaluated critically to determine population changes through time under future environmental uncertainty.</p>
+</section>
+<section id="adapt-tool" class="level4">
+<h4 class="anchored" data-anchor-id="adapt-tool">ADAPT Tool</h4>
+<p>The <a href="https://das.ecosphere.fws.gov/content/03f753d8-6793-4394-8e7b-25be5704334d/">ADAPT</a> is a Shiny app developed to illustrate predicted changes in bird species distributions under various climate change scenarios. While the app unfortunately never made it out of its beta version, it illustrates some of the ways Shiny apps can be used for wildlife applications.</p>
 </section>
 <section id="waterfowl-population-drivers-1" class="level4">
 <h4 class="anchored" data-anchor-id="waterfowl-population-drivers-1">Waterfowl Population Drivers</h4>
