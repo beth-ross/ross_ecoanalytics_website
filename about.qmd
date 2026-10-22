@@ -19,7 +19,7 @@ about:
       href: https://www.researchgate.net/profile/Beth-Ross-3
 ---
 
-I'm Beth Ross. I'm a statistician specializing in ecological applications. Throughout my career, I've collaborated with state and federal agencies, NGOs, and other conservation-focused organizations. I am happiest when I'm working in a team environment with a diverse group of folks to find solutions to conservation problems. I have worked on a range of projects from sea turtles to migratory birds. While statistics, data science, and data visualization are all important skills I've acquired, I find that communication and collaboration with multidisciplinary teams is critical for a successful co-developed product. I strive to communicate findings so that they are accessible for project partners and laypersons.
+I'm Beth Ross. I'm a quantitative ecologist specializing in wildlife populations. Throughout my career, I've collaborated with state and federal agencies, NGOs, and other conservation-focused organizations. I am happiest when I'm working in a team environment with a diverse group of folks to find solutions to conservation problems. I have worked on a range of projects from sea turtles to migratory birds. While statistics, data science, and data visualization are all important skills I've acquired, I find that communication and collaboration with multidisciplinary teams is critical for a successful co-developed product. I strive to communicate findings so that they are accessible for project partners and laypersons.
 
 ## Education
 
@@ -31,7 +31,7 @@ Kansas State University \| Manhattan, KS \| BS in Wildlife Biology, 2004
 
 ## Experience
 
-Owner and Statistician \| Ross EcoAnalytics, LLC \| Albuquerque, NM \| April 2025 - present
+Quantitative Ecologist, Owner \| Ross EcoAnalytics, LLC \| Albuquerque, NM \| April 2025 - present
 
 Quantitative Ecologist \| U.S. Fish and Wildlife Service \| Albuquerque, NM \| March 2021 - September 2025
 

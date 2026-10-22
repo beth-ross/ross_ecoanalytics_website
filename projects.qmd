@@ -12,11 +12,10 @@ Projects below are a representative sample of projects Beth has worked on during
 
 #### Avian Vulnerability Estimation and Power Analysis ([AVEPowA](https://briwildlife.org/offshorescienceplanning/))
 
-To help fill key data gaps in our understanding of which seabird species are at higher risk from offshore development, we are contributing to research in the U.S. Atlantic to better understand the factors that influence vulnerability in response to offshore development and develop guidance for monitoring seabird species in response to offshore development. 
-
+To help fill key data gaps in our understanding of which seabird species are at higher risk from offshore wind energy development, we are contributing to research in the U.S. Atlantic to better understand the traits that influence vulnerability to offshore wind energy development and develop guidance for monitoring seabird species. Ross EcoAnalytics is collaborating with the Biodiversity Research Institute, Normandeau Associates, The Nature Conservancy, and University of St. Andrews (CREEM). 
 #### Central Grasslands Bird Working Group
 
-The [CGBWG](https://www.nceas.ucsb.edu/workinggroups/morpho-integrating-multidisciplinary-data-layers-central-grassland-avian-modeling) is a transdisciplinary group working to integrate biological science, human dimensions, economics, and indigenous traditional ecological knowledge to better inform conservation and management of grasslands to benefit grassland bird species. 
+The [CGBWG](https://www.nceas.ucsb.edu/workinggroups/morpho-integrating-multidisciplinary-data-layers-central-grassland-avian-modeling) is a transdisciplinary group working to integrate biological science, human dimensions, economics, and indigenous traditional ecological knowledge to better inform conservation and management of grasslands to benefit grassland bird species. The first big product from this group is the [SPARRO](https://apps.birdconservancy.org/sparro/) app, an online tool to support land stewardship and bird conservation across the Great Plains.
 
 #### Waterfowl Population Drivers
 
@@ -26,11 +25,14 @@ We are working with researchers from Clemson University, USFWS, and WEST Inc to 
 
 #### Next Interior - [Interior's Contributions](https://nextinterior.shinyapps.io/InteriorsContributions/)
 
-*Interior's Contributions* is a web app and library of fact sheets providing basic information and statistics relevant to the U.S. Department of Interior, available by state and congressional district.
+*Interior's Contributions* is a web app and library of fact sheets providing basic information and statistics relevant to the U.S. Department of Interior, available by state and congressional district. We used Quarto to create the fact sheets, allowing us to develop dynamic, parameterized, reproducible documents.
 
 #### Kemp's Ridley Sea Turtle [publication](https://doi.org/10.1002/ecs2.4982)
 
 Despite decades of research, there were still many unknowns about the Texas population of Kemp's ridley sea turtle. We worked with NPS to understand the available data and identify knowledge gaps that would be helpful for management. We were able to combine decades of data with simulated management scenarios to predict how the population might change in the future given climate change, sea level rise, and management scenarios. We used an integrated population model (IPM) to estimate population parameters including adult survival, population growth rate, and abundance of nesting females in Texas. Our IPM framework provides an example of how future management scenarios can be evaluated critically to determine population changes through time under future environmental uncertainty.
+
+#### ADAPT Tool
+The [ADAPT](https://das.ecosphere.fws.gov/content/03f753d8-6793-4394-8e7b-25be5704334d/) is a Shiny app developed to illustrate predicted changes in bird species distributions under various climate change scenarios. While the app unfortunately never made it out of its beta version, it illustrates some of the ways Shiny apps can be used for wildlife applications.
 
 #### Waterfowl Population Drivers
 
