@@ -2,13 +2,13 @@
 title: "Ross EcoAnalytics"
 ---
 
-![](logo no background.png){style="float: left; margin-right: 10px;"  width="300px"}
+![](RossEcoAnalyticsLogo_LineTxt-Color.png){style="float: left; margin-right: 10px;" width="300px"}
 
 ## Data Driven Conservation
 
 At Ross EcoAnalytics, we are committed to providing high-quality statistical analyses and data science services to organizations that align with our environmental values. By leveraging advanced analytics and visualization tools, we aim to support non-profits, research institutions, and state and federal partners in making data-informed decisions that drive conservation.
 
-***
+------------------------------------------------------------------------
 
 ## Mission
 

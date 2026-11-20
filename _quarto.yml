@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Ross EcoAnalytics"
-  favicon: favicon-16x16.png
   navbar:
     left:
       - text: "Home"
